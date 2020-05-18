@@ -8,20 +8,17 @@ TeaTime is an internet based messaging app similar to WhatsApp, the popular mess
 
 ## Screenshots
 
-The inital screen:
+### The inital screen:
 ![](Documentation/StartScreen.gif)
 
+### The Register Page:
+<img src="Documentation/RegisterPage.png" width="200" height = "200">
 
-The Register Page:
-![](Documentation/RegisterPage.png)
+### The Login Page:
+<img src="Documentation/LoginPage.png" width="200" height = "200">
 
-
-The Login Page:
-![](Documentation/LoginPage.png)
-
-
-The Chat Page:
-![](Documentation/ChatPage.png)
+### The Chat Page:
+<img src="Documentation/ChatPage.png" width="200" height = "200">
 
 
 ## What I learned
