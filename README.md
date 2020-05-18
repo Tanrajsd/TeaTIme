@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/TanTECH.png)
+![](Documentation/TanTECH.png)
 
 # TeaTime
 
@@ -8,7 +8,7 @@ TeaTime is an internet based messaging app similar to WhatsApp. I have used a se
 
 ## Screenshots
 
-### The inital screen:
+### The Inital Screen:
 ![](Documentation/StartScreen.gif)
 
 ### The Register Page:
